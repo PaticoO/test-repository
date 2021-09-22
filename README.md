@@ -1,6 +1,5 @@
 # test-repository
 
-Agregando algo más...
-
+## asi me gusta mejor!
 
 This is a new edit from my local computer
